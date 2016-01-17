@@ -1,0 +1,8 @@
+[
+    {
+        "remote": "tm",
+        "repository": "proprietary_vendor_motorola",
+        "target_path": "vendor/motorola",
+        "revision": "gingerbread"
+    }
+]
